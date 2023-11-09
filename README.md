@@ -1,2 +1,2 @@
 # project_euler
-Solutions to [Project Euler](https://projecteuler.net) problems, written in R
+Solutions in R to the first 100 problems in [Project Euler](https://projecteuler.net).
