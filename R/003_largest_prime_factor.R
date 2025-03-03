@@ -3,7 +3,7 @@
 
 n <- 600851475143
 primes <- c()
-# the fist possible prime factor is 2
+# the first possible prime factor is 2
 factor <- 2
 
 while (n > 1) {
